@@ -1,8 +1,8 @@
-#DOWNLOAD<br>
+DOWNLOAD<br>
   https://www.microsoft.com/en-us/sql-server/sql-server-downloads<br>
   https://www.docker.com/products/docker-desktop/<br>
 
-#CLI COMMANDS<br>
+CLI COMMANDS<br>
   docker-compose up -d<br>
   dotnet user-secrets init<br>
   dotnet user-secrets set "UserId" "sa"<br>
